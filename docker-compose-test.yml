@@ -1,3 +1,5 @@
+version: "3.8"
+
 services:
   portal_cautivo:
     build:
@@ -5,4 +7,4 @@ services:
     container_name: tumlab_apps
     restart: always
     ports:
-      - 3002:80
+      - 80:80
