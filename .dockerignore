@@ -1,3 +1,6 @@
-docker-compose-prod.yml
-docker-compose.yml
+*.yml
+Dockerfile
+*.md
+.git
+.gitignore
 Dockerfile

@@ -64,7 +64,10 @@ export const en = {
     "app-tumlab-title": "Tumlab: Information System",
     "app-tumlab-description":
       "In the Tumlab Information System, simplicity combines with robustness to offer you an educational experience without limits. Here, you'll find intuitive tools, unparalleled security, and continuous updates. With Tumlab, your educational journey is about to reach new heights. Explore, learn, and grow with confidence!",
-    "app-lms-title": "Tumlab: LMS (Learning Management System)",
+	  "app-klxum-title": "Guardianes de la Tierra",
+	  "app-klxum-description":
+		"DESCRIPCIÓN EN INGLES",
+	  "app-lms-title": "Tumlab: LMS (Learning Management System)",
     "app-lms-description":
       "It is a platform designed to provide educators, administrators, and students with a robust and secure integrated system for creating personalized learning environments. Its easily accessible interface, documented resources, and updates make the Tumlab LMS an ideal tool to enhance all types of educational processes.",
     "app-steam-classrooms-patia-title": "STEAM Classrooms: Patía",

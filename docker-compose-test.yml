@@ -4,6 +4,8 @@ services:
   portal_cautivo:
     build:
       context: .
+    volumes:
+      - .:/usr/share/nginx/html
     container_name: tumlab_apps
     restart: always
     ports:
