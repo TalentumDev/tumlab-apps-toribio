@@ -233,11 +233,10 @@ export const apps = [
         order: 3,
         is_show: true,
         thumbnail: "./assets/herramientas-digitales/klxum_logo.png",
-        video:
-          "./assets/recursos-talentum/videos/recursos-talentum-steam-valle.mp4",
         title: `${sectionApps["app-klxum-title"]}`,
         description: `${sectionApps["app-klxum-description"]}`,
         url: "https://game.aulastoribio.com.co/",
+        bg: "./assets/herramientas-digitales/backgroud_game.png",
       },
       {
         id: "steam-classrooms-patia",

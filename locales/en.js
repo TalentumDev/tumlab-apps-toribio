@@ -64,9 +64,9 @@ export const en = {
     "app-tumlab-title": "Tumlab: Information System",
     "app-tumlab-description":
       "In the Tumlab Information System, simplicity combines with robustness to offer you an educational experience without limits. Here, you'll find intuitive tools, unparalleled security, and continuous updates. With Tumlab, your educational journey is about to reach new heights. Explore, learn, and grow with confidence!",
-	  "app-klxum-title": "Guardianes de la Tierra",
+	  "app-klxum-title": "Klxum: Guardian of the Earth",
 	  "app-klxum-description":
-		"DESCRIPCIÓN EN INGLES",
+		"Join the adventure to restore the balance of Mother Earth! Kitekwe and Tay (12), Nasa indigenous children, guided by the goblin Klxum and the ancestral wisdom of old woman Meelya, embark on an adventure to combat the pollution caused by WEEE and restore the balance of Mother Earth.",
 	  "app-lms-title": "Tumlab: LMS (Learning Management System)",
     "app-lms-description":
       "It is a platform designed to provide educators, administrators, and students with a robust and secure integrated system for creating personalized learning environments. Its easily accessible interface, documented resources, and updates make the Tumlab LMS an ideal tool to enhance all types of educational processes.",
