@@ -229,8 +229,19 @@ export const apps = [
         url: "http://tumlab.local:5000",
       },
       {
-        id: "steam-classrooms-patia",
+        id: "game-toribio",
         order: 3,
+        is_show: true,
+        thumbnail: "./assets/herramientas-digitales/klxum_logo.png",
+        video:
+          "./assets/recursos-talentum/videos/recursos-talentum-steam-valle.mp4",
+        title: `${sectionApps["app-klxum-title"]}`,
+        description: `${sectionApps["app-klxum-description"]}`,
+        url: "https://game.aulastoribio.com.co/",
+      },
+      {
+        id: "steam-classrooms-patia",
+        order: 4,
         is_show: false,
         thumbnail: "./assets/recursos-talentum/patia_thumbnail.webp",
         video: "./assets/recursos-talentum/videos/recursos-talentum-patia.mp4",
@@ -240,7 +251,7 @@ export const apps = [
       },
       {
         id: "steam-classrooms-valle",
-        order: 4,
+        order: 5,
         is_show: false,
         thumbnail: "./assets/recursos-talentum/steam-valle_thumbnail.webp",
         video:
