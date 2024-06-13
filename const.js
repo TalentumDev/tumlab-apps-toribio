@@ -235,7 +235,7 @@ export const apps = [
         thumbnail: "./assets/herramientas-digitales/klxum_logo.png",
         title: `${sectionApps["app-klxum-title"]}`,
         description: `${sectionApps["app-klxum-description"]}`,
-        url: "https://game.aulastoribio.com.co/",
+        url: "http://tumlab.local:82",
         bg: "./assets/herramientas-digitales/backgroud_game.png",
       },
       {
